@@ -1,11 +1,11 @@
 [![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)](https://github.com/PatchiG)
 <h1 align="center">Hi 👋, I'm Goutham Patchipulusu</h1>
 <h3 align="center">A Quantitative storyteller, weaving narratives through data analysis!!</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*08dAfJ2wmnmqgsrl.gif">
+<img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1400/0*08dAfJ2wmnmqgsrl.gif">
 
 - 🌱 I’m currently learning **Machine Learning techniques in Tensor Flow**
 
-- 💬 Ask me about **Data Science & Analytics, Databases, Business Analytics, Product Management**
+- 💬 Ask me about **Data Science & Analytics, Databases, Business Analytics, Project Management**
 
 - 📫 How to reach me **gouthamp@umd.edu**
 
