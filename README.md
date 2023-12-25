@@ -1,5 +1,6 @@
 [![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)](https://github.com/PatchiG)
-<h1 align="center">Hi 👋, I'm Goutham Patchipulusu</h1>
+<h1 align="center">Hi there 
+  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = '30px'>, I'm Goutham Patchipulusu</h1>
 <h3 align="center">A Quantitative storyteller, weaving narratives through data analysis!!</h3>
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1400/0*08dAfJ2wmnmqgsrl.gif">
 
