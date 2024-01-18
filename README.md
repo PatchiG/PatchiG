@@ -36,6 +36,8 @@
 
 ## Experience
 
+> Grader - [**University Of Maryland College Park**](https://umd.edu/)  Aug 2023 - Present
+
 > Data Analyst - [**Meesho**](https://www.meesho.com/)  Dec 2021 - Jul 2023
 
 > Business Analyst - [**Brightchamps**](https://brightchamps.com/)  Jul 2021 - Dec 2021
