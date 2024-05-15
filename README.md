@@ -36,7 +36,9 @@
 
 ## Experience
 
-> Grader - [**University Of Maryland College Park**](https://umd.edu/)  Aug 2023 - Present
+> Graduate Assistant Data Analyst - [**Office Of Career Services, Smith School Of Business**](https://careers.rhsmith.umd.edu/)  Apr 2024 - Present
+
+> Grader - Introduction to Programming in Python - [**University Of Maryland College Park**](https://umd.edu/)  Aug 2023 - Apr 2024
 
 > Data Analyst - [**Meesho**](https://www.meesho.com/)  Dec 2021 - Jul 2023
 
