@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Science & Analytics, Databases, Business Analytics, Project Management**
 
-- 📫 How to reach me **gouthamp@umd.edu**
+- 📫 How to reach me **gouthamp@umd.edu / patgoutham@gmail.com**
 
 - 📄 Know about my experiences [Resume Link](https://docs.google.com/document/d/1R02P4WT82mMS8ZG0IgKbBFbGwOrhf-8Lkdrks8qj2Pg/edit)
 
