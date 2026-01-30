@@ -1,4 +1,3 @@
-[![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)](https://github.com/PatchiG)
 <h1 align="center">Hi there 
   <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = '30px'>, I'm Goutham Patchipulusu</h1>
 
