@@ -35,7 +35,7 @@
 
 ## Experience
 
-> Graduate Assistant Data Analyst - [**Office Of Career Services, Smith School Of Business**](https://careers.rhsmith.umd.edu/)  Apr 2024 - Present
+> Graduate Assistant Data Analyst - [**Office Of Career Services, Smith School Of Business**](https://careers.rhsmith.umd.edu/)  Apr 2024 - May 2025
 
 > Grader - Introduction to Programming in Python - [**University Of Maryland College Park**](https://umd.edu/)  Aug 2023 - Apr 2024
 
